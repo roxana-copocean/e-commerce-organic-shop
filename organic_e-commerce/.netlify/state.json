@@ -1,0 +1,19 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Bucharest",
+			"country": {
+				"code": "RO",
+				"name": "Romania"
+			},
+			"subdivision": {
+				"code": "B",
+				"name": "Bucuresti"
+			},
+			"timezone": "Europe/Bucharest",
+			"latitude": 44.405,
+			"longitude": 26.0718
+		},
+		"timestamp": 1692626107485
+	}
+}
