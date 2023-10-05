@@ -3,7 +3,7 @@
 
 # Organic Cosmetics Shop: E-commerce Platform 
 
-![Banner Image](/src/assets/github/banner.jpg)
+![Banner Image](/organic_e-commerce/src/assets/github/banner.jpg)
 
 ## Table of Contents
 
@@ -140,19 +140,19 @@ export const userReducer = (state = USER_INITIAL_STATE, action = {} as AnyAction
 Below are screenshots of the Organic Cosmetics Shop platform showcasing its features and responsive design.
 
 ### Landing Page
-![Landing Page](/src/assets/github/landing_page.jpg)
+![Landing Page](/organic_e-commerce/src/assets/github/landing_page.jpg)
 
 ### Shop Products
-![Shop Products](/src/assets/github/shop.jpg)
+![Shop Products](/organic_e-commerce/src/assets/github/shop.jpg)
 
 ### Shopping Cart
-![Shopping Cart](/src/assets/github/shop_cart.jpg)
+![Shopping Cart](/organic_e-commerce/src/assets/github/shop_cart.jpg)
 
 ### Checkout Page
-![Checkout Page](/src/assets/github/checkout.jpg)
+![Checkout Page](/organic_e-commerce/src/assets/github/checkout.jpg)
 
 ### Card Payment
-![Card Paymente](/src/assets/github/card_payment.jpg)
+![Card Paymente](/organic_e-commerce/src/assets/github/card_payment.jpg)
 
 
 
